@@ -1,4 +1,4 @@
-import createProxy, { ReactProxyComponent } from "react-proxy";
+import { createProxy, ReactProxyComponent } from "react-proxy";
 import React from "react";
 import "./types";
 
